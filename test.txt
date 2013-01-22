@@ -1,0 +1,4 @@
+START TIME: Tue Sep 04 13:53:57 PDT 2012
+For user,1, P@10 = 0.9
+Average P@10 =0.9
+FINISH TIME: Tue Sep 04 13:53:59 PDT 2012
